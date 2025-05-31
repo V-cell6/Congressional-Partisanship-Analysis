@@ -30,8 +30,11 @@ This project analyzes the historical party composition of the United States Hous
 
 - Senate majority/minority party composition over time
 
+![image](https://github.com/user-attachments/assets/705d5cf1-1fc7-4dc6-a4c3-5f9411306080)
+
+
 - Shifts in power between Democratic, Republican, and third parties
-  
-- Highlight of historical turning points in party control
+
+![image](https://github.com/user-attachments/assets/a17d2c3b-04aa-4d2a-8d23-a3bcc6cfc04f)
 
   
