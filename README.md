@@ -1,27 +1,38 @@
-# Congressional Partisanship Analysis
+# 🏛️ Senate Analysis: U.S. Party Divisions Over Time
 
-This repository contains code and data for analyzing partisanship trends in the United States Congress. The project aims to explore how political polarization has evolved over time using publicly available congressional data, data science techniques, and visualizations.
+This project analyzes the historical party composition of the United States Senate using web scraping and data visualization. It extracts data from official government sources, processes it using Python, and presents clear insights into how party representation has evolved over time.
 
-## Table of Contents
+## 📊 Features
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- Scrapes party division data from the U.S. Senate website
+- Cleans and structures the raw HTML data into a usable format
+- Extracts majority, minority, and other party counts for each congressional session
+- Visualizes party trends over time using `matplotlib` and `seaborn`
 
-## Overview
+## 🧰 Technologies Used
 
-Political partisanship has become a defining feature of American politics, especially within Congress. This project seeks to quantify and visualize partisanship using voting records, party affiliations, and other relevant datasets. The analysis benefits from Python data science libraries for data processing, statistical analysis, and visualization.
+- Python
+- BeautifulSoup (`bs4`)
+- urllib
+- Regular Expressions (`re`)
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
-## Features
+## 🌐 Data Sources
 
-- Collection and cleaning of congressional voting records
-- Calculation of partisanship metrics (e.g., party-line voting rates, DW-NOMINATE scores)
-- Visualization of polarization trends over time
-- Comparison of partisanship across chambers, sessions, and parties
-- Jupyter Notebooks for interactive exploration
+- [U.S. Senate Party Division History](https://www.senate.gov/history/partydiv.htm)
+- [U.S. House Party Division (for reference)](http://history.house.gov/Institution/Party-Divisions/Party-Divisions/)
+
+
+## 📈 Sample Visualizations
+
+- Senate majority/minority party composition over time
+
+- Shifts in power between Democratic, Republican, and third parties
+
+  
+- Highlight of historical turning points in party control
+
+  
