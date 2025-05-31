@@ -1,4 +1,4 @@
-# 🏛️ Senate Analysis: U.S. Party Divisions Over Time
+# 🏛️ House and Senate Analysis: U.S. Party Divisions Over Time
 
 This project analyzes the historical party composition of the United States Senate using web scraping and data visualization. It extracts data from official government sources, processes it using Python, and presents clear insights into how party representation has evolved over time.
 
